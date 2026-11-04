@@ -35,6 +35,7 @@ A curated list of tiktok ad library pages and the tools around them: the Commerc
 - [TikTok Ads Manager](https://ads.tiktok.com/i18n/home) - where the campaigns you benchmark against are actually run.
 - [Creative Exchange](https://ads.tiktok.com/creativeexchange) - listed under Products and Services in the Creative Center footer.
 - [TikTok for Developers](https://developers.tiktok.com/) - the developer portal if you are looking for programmatic access.
+- [TKMetrics](https://tkmetrics.com/) - followers, engagement rate and plays from public creator profiles, to check the creators behind the ads you benchmark.
 
 ## Alternatives
 
