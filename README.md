@@ -30,6 +30,7 @@ A curated list of tiktok ad library pages and the tools around them: the Commerc
 
 - [Creative Center Trends](https://ads.tiktok.com/creative/creativeCenter/trends) - what is trending, next to the ads that use it.
 - [Symphony Creative Studio](https://ads.tiktok.com/creative/creativeCenter/tools/creativeTools) - text to video, image to video, avatar videos, product remixes, translation and dubbing into 15 languages.
+- [RemakeThat](https://remakethat.com) - remake a winning TikTok video into an original faceless clip with a fresh script and AI creator; start from a proven winner instead of a blank page.
 - [Creative Center Automation](https://ads.tiktok.com/creative/creativeCenter/tools/automation) - automation tools under Creative Tools.
 - [Creative Center API](https://ads.tiktok.com/creative/creativeCenter/tools/api) - the API entry under Creative Tools; check scope and terms there.
 - [TikTok Ads Manager](https://ads.tiktok.com/i18n/home) - where the campaigns you benchmark against are actually run.
